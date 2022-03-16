@@ -1,0 +1,8 @@
+#paragrafo{
+    background-color: rgb(61, 61, 61);
+    border: groove green 6px;
+    text-align: justify;
+    margin: 10px;
+    color: white;
+    padding: 10px;
+}
